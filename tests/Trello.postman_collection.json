@@ -368,5 +368,22 @@
       }
     }
   ],
-  "variable": []
+  "variable": [
+    {
+      "key": "API_KEY",
+      "value": "dotenv cross-var %API_KEY%"
+    },
+    {
+      "key": "API_TOKEN",
+      "value": "dotenv cross-var %API_TOKEN%"
+    },
+    {
+      "key": "cardId",
+      "value": ""
+    },
+    {
+      "key": "variable_key",
+      "value": ""
+    }
+  ]
 }
