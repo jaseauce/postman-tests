@@ -6,4 +6,4 @@ install:
   - npm install newman
 
 script:
-  - node_modules/.bin/newman run tests/Trello.postman_collection.json -e Production.postman_environment.json
+  - node_modules/.bin/newman run tests/Trello.postman_collection.json -e tests/Production.postman_environment.json
