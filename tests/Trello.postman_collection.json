@@ -371,11 +371,11 @@
   "variable": [
     {
       "key": "API_KEY",
-      "value": "dotenv cross-var %API_KEY%"
+      "value": "ed28a2928ca6ea7dcfa7efcf0acdef1a"
     },
     {
       "key": "API_TOKEN",
-      "value": "dotenv cross-var %API_TOKEN%"
+      "value": "d6ab09749df2f26a0a022234b72c22fd3963ac1d510a1db6afafc0bbeec1c553"
     },
     {
       "key": "cardId",

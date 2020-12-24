@@ -4,8 +4,6 @@ node_js:
 
 install:
   - npm install newman
-  - npm install dotenv-cli
-  - npm install cross-var
 
 script:
   - node_modules/.bin/newman run tests/Trello.postman_collection.json -e tests/Production.postman_environment.json
